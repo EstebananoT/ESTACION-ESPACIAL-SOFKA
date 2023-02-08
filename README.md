@@ -7,3 +7,6 @@ Para poder ejecutar el proyecto se tiene que:
 2. Ejecutar Script Sql del repositorio.
 3. Ejecutar Proyecto con SpringBoot.
 4. Listo para usar la API.
+
+### DER
+![image](https://github.com/EstebananoT/ESTACION-ESPACIAL-SOFKA/blob/main/DER_DB.png)
