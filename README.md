@@ -10,3 +10,6 @@ Para poder ejecutar el proyecto se tiene que:
 
 ### DER
 ![image](https://github.com/EstebananoT/ESTACION-ESPACIAL-SOFKA/blob/main/DER_DB.png)
+
+
+Seguire desarrollando el front de este, ayudame a mejorar :D
